@@ -4,7 +4,7 @@
 * 간단한 오리엔테이션
 * 자기소개
 
-![제주도 이미지] (img/a.jpg)
+![제주도 이미지](img/a.jpg)
 
 ```python
 print('hello')
